@@ -37,6 +37,5 @@ function Editor(props) {
       </div>
     </div>
   )
-
 }
 export default Editor;
